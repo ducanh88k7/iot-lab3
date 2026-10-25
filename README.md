@@ -2,7 +2,7 @@
 
 **Học phần:** IoT và Ứng dụng (INT14149)  
 **Sinh viên thực hiện:** Nguyễn Đức Anh — **Mã sinh viên:** B23DCCN031
-**Lớp và nhóm thực hành:** Nhóm 04, tổ 2  
+**Lớp và nhóm thực hành:** Nhóm 04, tổ 1  
 
 
 ---
