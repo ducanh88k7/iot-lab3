@@ -1,10 +1,9 @@
 # Bài thực hành số 3 — Trích chọn đặc trưng và học từ dữ liệu IoT
 
 **Học phần:** IoT và Ứng dụng (INT14149)  
-**Sinh viên thực hiện:** Trần Mạnh Khiêm — **Mã sinh viên:** B23DCCN437  
+**Sinh viên thực hiện:** Nguyễn Đức Anh — **Mã sinh viên:** B23DCCN031
 **Lớp và nhóm thực hành:** Nhóm 04, tổ 2  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tmk-123/iot-lab3-pipeline/blob/main/Bai3_Sinh_vien.ipynb)
 
 ---
 
@@ -35,7 +34,7 @@ Nối tiếp hệ thống thu thập telemetry ở Bài 1 và Bài 2 (ESP32 Wokw
 
 ## 3. Hướng dẫn chạy trên Google Colab
 
-1. Bấm vào nút **Open in Colab** ở đầu trang hoặc truy cập https://colab.research.google.com -> *File -> Open notebook -> GitHub* -> dán link repo: `https://github.com/tmk-123/iot-lab3-pipeline`.
+1. Bấm vào nút **Open in Colab** ở đầu trang hoặc truy cập https://colab.research.google.com -> *File -> Open notebook -> GitHub* -> dán link repo: `https://github.com/ducanh88k7/iot-lab3`.
 2. Tải tệp `du_lieu_mau_B2.csv` (hoặc `du_lieu_B2.csv`) lên thanh Files bên trái của Colab.
 3. Chọn menu **Runtime -> Run all** để chạy toàn bộ 10 ô code.
 
